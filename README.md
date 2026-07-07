@@ -1,7 +1,8 @@
 # EEG Hyperscanning Code Repository. How do we align in good conversation?
 
 This repository contains all the code used for data collection, preprocessing, neural speech tracking and neural coordination estimation (processing), and statistical analysis in the manuscript "Interpersonal Neural Coordination Tracks Interaction Quality During Naturalistic Conversation" (under review).
-Preprocessed data will be made available upon acceptance of the manuscript for publication.
+
+Preprocessed data needed to reproduce the manuscript results are available [here](https://osf.io/7b3e6/). Intermediate / earlier-stage files can be provided on request.
 
 `01_Experiment` contains the MATLAB script used to run the experiment in an EEG hyperscanning setup, using the [Psychophysics Toolbox Version 3 (PTB-3)](http://psychtoolbox.org/).
 
